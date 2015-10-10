@@ -1,0 +1,25 @@
+{
+  "name": "smileybot",
+  "version": "1.0.0",
+  "description": "Simple server for ascii smileys",
+  "main": "smileybot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zanadar/smileybot_ruby.git"
+  },
+  "author": "Zander Mackie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zanadar/smileybot_ruby/issues"
+  },
+  "homepage": "https://github.com/Zanadar/smileybot_ruby#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cool-ascii-faces": "^1.3.3",
+    "express": "^4.13.3",
+    "locus": "^1.2.0"
+  }
+}
